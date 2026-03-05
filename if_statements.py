@@ -18,7 +18,7 @@ age = 24
 if age < 30:
     print ('\nYou are young')
 if age > 30:
-    print('You are old')
+    print('You are grown')
 
 #checking multiple conditions 
 #Using 'and' to check multiple conditions
